@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+simplex.tode.cz	TRUE	/	FALSE	1999999999	nette-browser	tc1en71h5t
+simplex.tode.cz	TRUE	/	FALSE	1999999999	PHPSESSID	mltviht2rmt7v7sm55q16lk0f1
+
